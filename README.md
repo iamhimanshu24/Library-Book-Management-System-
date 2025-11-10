@@ -51,7 +51,7 @@ This project automates the process using Python, allowing:
 4. Set Up Python Environment
 
    ```
-   python -m venv venv
+   python3 -m venv venv
    ```
 5.Activate it:
 
