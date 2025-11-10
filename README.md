@@ -46,14 +46,37 @@ This project automates the process using Python, allowing:
 3. Install any required libraries if missing:
 
    ```
-   pip install pandas
+   pip install -r requirements.txt
    ```
-4. Run the program:
+4. Set Up Python Environment
 
    ```
-   python app.py
+   python -m venv venv
    ```
-5. After that you will get link.Then,click on link to open our webpage
+5.Activate it:
+
+Windows:
+```
+venv\Scripts\activate
+```
+
+
+macOS/Linux:
+```
+source venv/bin/activate
+```
+6.  Run the Flask App
+```
+python app.py
+```
+
+
+or (if Flask is used directly)
+
+```
+flask run
+```
+6. After that you will get link.Then,click on link to open our webpage
 ## Team Members
 
 | Name                      | Reg. No.  | Role                               |
