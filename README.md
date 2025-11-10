@@ -41,7 +41,7 @@ This project automates the process using Python, allowing:
 
 ## Installation and Setup
 
-1. click on python project folder,then click on View raw and  extract zip file.
+1. click on library-project_final,download file  and  extract zip file.
 2. Open the project in any Python IDE (VS Code, PyCharm, etc.).
 3. Install any required libraries if missing:
 
