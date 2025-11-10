@@ -46,7 +46,7 @@ This project automates the process using Python, allowing:
 3. Install any required libraries if missing:
 
    ```
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 4. Set Up Python Environment
 
